@@ -46,5 +46,6 @@ public class Main1 {
             System.out.println("Ошибка: деление на ноль невозможно.");
         }
         System.out.println("Программа завершена");
+        scanner.close();
     }
 }

@@ -21,5 +21,6 @@ public class Main2 {
             System.out.println("Строки неидентичны");
         }
         System.out.println("Программа завершена");
+        scanner.close();
     }
 }
